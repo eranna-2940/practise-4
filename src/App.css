@@ -1,0 +1,42 @@
+#name{
+    width: 50%;
+    border-bottom: 2px solid black;
+}
+body{
+    background-color: lightslategray
+}
+h1{
+    color: white;
+    font-size: 35px;
+}
+form{
+    position: relative;
+}
+input {
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+    margin-right: 5.9rem;
+}
+.btn{
+    width: 100px;
+    height: 105px;
+    position: absolute;
+    background-color: rgb(153, 26, 26);
+    color: white;
+    margin-left: -6.4rem;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 2px 2px 3px black
+    
+}
+p{
+    color: white;
+    font-size: 40px;
+}
+button{
+    width: 100px;
+    height: 100px;
+    font-size: 15px;
+    
+}
